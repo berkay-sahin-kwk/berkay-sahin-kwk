@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.gif" width="100%" alt="Profil Banner" />
+</p>
+
 Hakkımda
 
 ⚙️ Web + Mobil: Flutter/React, küçük MVP'ler ve otomasyon meraklısı
