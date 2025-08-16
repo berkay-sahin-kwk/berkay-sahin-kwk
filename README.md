@@ -12,21 +12,16 @@ Hakkımda
 
 “Basit başla, hızlı gönder, veriye göre tekrar et.”
 
-Tech Stack
+
 
 Öne Çıkan Projeler
 
-🚀 Viejo Dinero – Old money kültürü mini belgesel/kanal konsepti
+🎬 filmbul.com – Film/dizi arşivi
 
-🎬 filmbul.com – Film/dizi arşivi ve tema çalışmaları
-
-🛠️ GarageBook – Araç tutkunlarına sanal garaj uygulaması (WIP)
+🛠️ sonvites.net – Araç tutkunlarına sanal garaj uygulaması (WIP)
 
 💬 AI Dating (MVP) – Flutter + Firebase + basit eşleştirme (plan)
 
-Bu bölümde kendi repo linklerini ekle: - [Repo Adı](https://github.com/<kullanici>/<repo>)
-
-GitHub İstatistikleri
 
 İletişim
 
