@@ -1,16 +1,33 @@
-## Hi there 👋
+Hakkımda
 
-<!--
-**berkay-sahin-kwk/berkay-sahin-kwk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚙️ Web + Mobil: Flutter/React, küçük MVP'ler ve otomasyon meraklısı
 
-Here are some ideas to get you started:
+🛒 E‑ticaret/Dropshipping: Ürün araştırma, reklam ve analitik
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 AI / Otomasyon: N8N ile iş akışları, scriptler
+
+“Basit başla, hızlı gönder, veriye göre tekrar et.”
+
+Tech Stack
+
+Öne Çıkan Projeler
+
+🚀 Viejo Dinero – Old money kültürü mini belgesel/kanal konsepti
+
+🎬 filmbul.com – Film/dizi arşivi ve tema çalışmaları
+
+🛠️ GarageBook – Araç tutkunlarına sanal garaj uygulaması (WIP)
+
+💬 AI Dating (MVP) – Flutter + Firebase + basit eşleştirme (plan)
+
+Bu bölümde kendi repo linklerini ekle: - [Repo Adı](https://github.com/<kullanici>/<repo>)
+
+GitHub İstatistikleri
+
+İletişim
+
+📫 Mail: hello@berkaysahin.com
+
+🌐 Site: berkaysahin.com
+
+💼 LinkedIn: /in/berkay--sahin
