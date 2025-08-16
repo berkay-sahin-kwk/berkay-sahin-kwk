@@ -30,3 +30,9 @@ Hakkımda
 🌐 Site: berkaysahin.com
 
 💼 LinkedIn: /in/berkay--sahin
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,html,css,flutter&perline=5" alt="My Tech Stack" />
+  </a>
+</p>
