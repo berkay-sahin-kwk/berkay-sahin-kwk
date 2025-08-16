@@ -38,8 +38,5 @@ Hakkımda
     <img src="https://www.svgrepo.com/show/473837/xcode.svg" width="48" height="48" alt="Xcode" />
   </a>
 
-  <a href="https://www.binance.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Binance_Logo.svg" width="48" height="48" alt="Binance" />
-  </a>
-</p>
+
 
