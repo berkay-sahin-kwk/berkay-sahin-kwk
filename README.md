@@ -25,11 +25,11 @@ Hakkımda
 
 İletişim
 
-📫 Mail: hello@berkaysahin.com
+📫 Mail: iletisim@berkaysahin.com
 
 🌐 Site: berkaysahin.com
 
-💼 LinkedIn: /in/berkay--sahin
+💼 LinkedIn: /in/berkay-sahin-kwk
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,html,css,flutter&perline=5" alt="Tech Stack" />
